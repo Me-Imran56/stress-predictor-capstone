@@ -70,7 +70,7 @@ insurers, or engagement dashboards for corporate wellness programs.
 
 ## Live App
 
-**[Add your Streamlit Community Cloud link here after deploying]**
+**[[Live Demo ->]](https://daily-stress-predictor56.streamlit.app/)**
 
 ## How to Run
 
@@ -86,13 +86,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Deploy to Streamlit Community Cloud
-1. Push this folder (`app.py`, `requirements.txt`, `stress_pipeline.joblib`) to a public
-   GitHub repo.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub.
-3. **New app** → select the repo → set main file to `app.py` (or `capstone/app.py` if kept in
-   a subfolder) → **Deploy**.
-4. Copy the live URL into the "Live App" section above.
+
 
 ## Files
 
